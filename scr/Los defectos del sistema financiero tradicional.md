@@ -1,6 +1,16 @@
 # Los defectos del sistema financiero tradicional  
 ### Inflación, censura monetaria y autoritarismo
 
+> 🧭 Esta publicación forma parte de una serie educativa sobre el dinero, su historia, sus problemas actuales y las nuevas herramientas que están cambiando cómo lo usamos y entendemos.
+>
+> **Serie completa:**
+> 1. [La evolución del dinero digital: del crédito al cripto-dinero](../La%20evolución%20del%20dinero%20digital:%20del%20crédito%20al%20cripto-dinero.md)  
+> 2. ✅ Los defectos del sistema financiero tradicional *(estás aquí)*  
+> 3. 🔜 [Del control a la soberanía: lo que descubrí al entender Bitcoin](scr/Del%20control%20a%20la%20soberanía.md)  
+> 4. 🔜 Orígenes de Bitcoin y el Whitepaper *(próximamente)*
+
+---
+
 ¿Alguna vez has sentido que tu dinero se evapora sin que lo uses?  
 ¿Que no puedes ahorrar, no porque gastes demasiado, sino porque todo sube y tu salario no acompaña?  
 ¿O que enviar dinero a tu familia en otro país es tan difícil como enviar un paquete a Marte?
@@ -121,7 +131,4 @@ Entre todas esas herramientas, **hay una que ha despertado atención, debate y e
 Y aunque muchos lo ven como una inversión o una tecnología, otros lo entienden como lo que podría ser:  
 **una respuesta directa a la opresión financiera**.
 
-De eso hablaremos en el próximo artículo.
-
----
-
+👉 [En el próximo artículo, exploramos cómo Bitcoin ofrece una vía de escape: *Del control a la soberanía*](scr/Del%20control%20a%20la%20soberanía.md)
