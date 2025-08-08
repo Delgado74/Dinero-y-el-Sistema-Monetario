@@ -1,5 +1,15 @@
 # Del control a la soberanía: lo que descubrí al entender Bitcoin
 
+> 🧭 Esta publicación forma parte de una serie educativa sobre el dinero, su historia, sus problemas actuales y las nuevas herramientas que están cambiando cómo lo usamos y entendemos.
+>
+> **Serie completa:**
+> 1. [La evolución del dinero digital: del crédito al cripto-dinero](../La%20evolución%20del%20dinero%20digital:%20del%20crédito%20al%20cripto-dinero.md)  
+> 2. [Los defectos del sistema financiero tradicional](scr/Los%20defectos%20del%20sistema%20financiero%20tradicional.md)  
+> 3. ✅ Del control a la soberanía *(estás aquí)*  
+> 4. 🔜 [Orígenes de Bitcoin y el Whitepaper](scr/Orígenes%20de%20Bitcoin%20y%20el%20Whitepaper.md)
+
+---
+
 Hace poco hablamos sobre los defectos del sistema financiero tradicional: la inflación que devora tu salario, la censura que limita el uso de tu dinero y el autoritarismo que decide por ti sin consultarte.  
 Si sentiste que esas injusticias te tocaban de cerca, no estás solo.
 
@@ -99,10 +109,7 @@ Puedes empezar con poco, aprender a tu ritmo y ser dueño real de tu dinero.
 No es solo una moneda digital.  
 Es una herramienta de libertad y soberanía financiera.
 
-Si has llegado hasta aquí, estás listo para dar el siguiente paso.
+Y si te estás preguntando cómo nació esta herramienta, quién la diseñó y por qué fue tan revolucionaria,  
+te invito a seguir explorando en el próximo artículo de esta serie:
 
-En el próximo artículo, exploraremos cómo ha evolucionado el dinero digital a lo largo del tiempo, desde el crédito tradicional hasta el cripto-dinero, y por qué este cambio puede marcar un antes y un después en la forma en que entendemos y usamos el dinero.
-
-¿Te animas a seguir este viaje?
-
----
+👉 [Exploración de los orígenes de Bitcoin: cómo se basa en ideas criptográficas previas y por qué la solución de Satoshi Nakamoto fue única](scr/Orígenes%20de%20Bitcoin%20y%20el%20Whitepaper.md)
