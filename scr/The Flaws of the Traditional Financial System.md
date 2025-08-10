@@ -8,7 +8,7 @@
 >
 > 1. [The Evolution of Digital Money: From Credit to Crypto-Money](The%20Evolution%20of%20Digital%20Money.md)
 > 2. ✅ The Flaws of the Traditional Financial System *(you are here)*
-> 3. 🔜 [From Control to Sovereignty: What I Discovered by Understanding Bitcoin](From%20Control%20to%20Soverringty.md)
+> 3. 🔜 [From Control to Sovereignty: What I Discovered by Understanding Bitcoin](From%20Control%20to%20Sovereignty.md)
 > 4. 🔜 Origins of Bitcoin and the Whitepaper *(coming soon)*
 
 ---
@@ -133,4 +133,4 @@ Among all those tools, **one has sparked attention, debate, and hope: Bitcoin**.
 And while many see it as an investment or a technology, others understand it as what it could be:
 **a direct response to financial oppression**.
 
-👉 [In the next article, we’ll explore how Bitcoin offers a way out: *From Control to Sovereignty*](From%20Control%20to%20Soverringty.md)
+👉 [In the next article, we’ll explore how Bitcoin offers a way out: *From Control to Sovereignty*](From%20Control%20to%20Sovereignty.md)
