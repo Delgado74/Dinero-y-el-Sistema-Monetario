@@ -1,99 +1,100 @@
-# Fundamentos Técnicos de Bitcoin
+# Technical Fundamentals of Bitcoin
 
-Este repositorio documenta mi progreso y aprendizaje en el curso **Fundamentos Técnicos de Bitcoin**, ofrecido por [Librería de Satoshi](https://github.com/LibreriadeSatoshi).
+This repository documents my progress and learning in the **Technical Fundamentals of Bitcoin** course, offered by [Librería de Satoshi](https://github.com/LibreriadeSatoshi).
 
-Mi intención es registrar en formato accesible todos los conceptos clave del curso y compartir mis apuntes e investigaciones con la comunidad de habla hispana fundamentalmente. Espero que pueda servir como recurso útil para otros estudiantes y entusiastas de Bitcoin. Todas las contribuciones son bienvenidas.
+My intention is to record all the key concepts from the course in an accessible format and share my notes and research primarily with the Spanish-speaking community. I hope it can serve as a useful resource for other students and Bitcoin enthusiasts. All contributions are welcome.
 
-## ¿Cómo está organizado este repositorio?
+## How is this repository organized?
 
-Los contenidos del curso están organizados por temas, y cada uno cuenta con su propio archivo Markdown dentro del directorio `src/`. Cada archivo contiene explicaciones, referencias, gráficos, ejemplos, y en algunos casos, líneas de tiempo o diagramas conceptuales.
+The course content is organized by topics, each with its own Markdown file inside the `src/` directory.  
+Each file contains explanations, references, graphics, examples, and in some cases, timelines or conceptual diagrams.
 
-## Colaboraciones
+## Contributions
 
-Este repositorio es público. Si quieres colaborar:
+This repository is public. If you want to contribute:
 
-1. Haz un fork del proyecto.
-2. Crea tu rama con tus cambios.
-3. Realiza un pull request o crea un issue con tus aportes o correcciones.
+1. Fork the project.
+2. Create your branch with your changes.
+3. Submit a pull request or create an issue with your contributions or corrections.
 
-Toda participación constructiva es bienvenida, ya sea para enriquecer el contenido o corregir errores.
+All constructive participation is welcome, whether to enrich the content or correct mistakes.
 
-## Currículum del curso
+## Course Curriculum
 
-El contenido cubierto en este repositorio sigue la siguiente estructura:
+The content covered in this repository follows the structure below:
 
-### 1. El papel del dinero y los sistemas financieros
+### 1. The Role of Money and Financial Systems
 
-- Los estudiantes comienzan comprendiendo los fundamentos del valor, el dinero y los sistemas financieros, incluida su evolución, debilidades y el papel de Bitcoin como respuesta a fallas sistémicas.
-- Valor, historia del dinero y el papel del dinero en la historia.
-- Tipos de sistemas monetarios: materias primas, basados en libros contables, fiduciarios, etc.
-- Escuelas de economía desde Smith hasta los nuevos institucionalistas.
-- Los defectos del sistema financiero tradicional: inflación, censura monetaria y autoritarismo.
-- Bitcoin como solución a la opresión financiera y el control del dinero.
-- La evolución del dinero digital: del crédito al cripto-dinero.
+- Students begin by understanding the fundamentals of value, money, and financial systems, including their evolution, weaknesses, and Bitcoin’s role as a response to systemic failures.
+- Value, history of money, and the role of money in history.
+- Types of monetary systems: commodity-based, ledger-based, fiat, etc.
+- Schools of economics from Smith to the new institutionalists.
+- The flaws of the traditional financial system: inflation, monetary censorship, and authoritarianism.
+- Bitcoin as a solution to financial oppression and money control.
+- The evolution of digital money: from credit to crypto-money.
 
-### 2. Orígenes de Bitcoin y el Whitepaper
+### 2. Origins of Bitcoin and the Whitepaper
 
-- Exploración de los orígenes de Bitcoin, cómo se basa en ideas criptográficas previas y por qué la solución de Satoshi Nakamoto fue única.
-- Pedigrí académico de Bitcoin, rastreando las ideas en Bitcoin hasta la literatura académica de los 80 y 90.
-- Filosofía de Bitcoin y los cypherpunks.
-- ¿Quién es Satoshi Nakamoto? La importancia del Whitepaper de Bitcoin.
+- Exploration of Bitcoin’s origins, how it builds on previous cryptographic ideas, and why Satoshi Nakamoto’s solution was unique.
+- Bitcoin’s academic pedigree, tracing the ideas behind it back to the academic literature of the 1980s and 1990s.
+- The philosophy of Bitcoin and the cypherpunks.
+- Who is Satoshi Nakamoto? The importance of the Bitcoin Whitepaper.
 
-### 3. Fundamentos criptográficos de Bitcoin
+### 3. Cryptographic Fundamentals of Bitcoin
 
-- Introducción a los principios criptográficos que sustentan la seguridad de Bitcoin, asegurando que los estudiantes comprendan los conceptos matemáticos clave.
-- Fundamentos de la criptografía.
-- Funciones hash y punteros hash (con gráficos).
-- El papel de los libros contables y el sellado temporal.
-- Árboles de Merkle y la integridad de los datos.
-- Firmas digitales y su papel en Bitcoin.
-- Curva elíptica ECDSA y secp256k1 ¿y firma Schnorr?
-- Criptografía de clave pública: cómo funcionan las claves públicas y privadas.
-- Clave pública y clave privada.
-- Principio: Sin tus claves, no son tus monedas.
+- Introduction to the cryptographic principles that underpin Bitcoin’s security, ensuring students understand key mathematical concepts.
+- Basics of cryptography.
+- Hash functions and hash pointers (with diagrams).
+- The role of ledgers and timestamping.
+- Merkle trees and data integrity.
+- Digital signatures and their role in Bitcoin.
+- Elliptic curve ECDSA and secp256k1, and Schnorr signatures?
+- Public key cryptography: how public and private keys work.
+- Public key and private key.
+- Principle: Not your keys, not your coins.
 
-### 4. Descentralización y sistemas sin confianza
+### 4. Decentralization and Trustless Systems
 
-- La capacidad de Bitcoin para eliminar intermediarios es una parte central de su propuesta de valor; esta clase explora cómo la descentralización logra ese objetivo.
-- Identidad en Bitcoin: seudonimato vs. anonimato.
-- Centralización vs. descentralización en los sistemas financieros.
-- El libro de transacciones público: cómo funciona la blockchain.
-- Exploración de transacciones de Bitcoin en el explorador de blockchain.
+- Bitcoin’s ability to remove intermediaries is a core part of its value proposition; this class explores how decentralization achieves that goal.
+- Identity in Bitcoin: pseudonymity vs. anonymity.
+- Centralization vs. decentralization in financial systems.
+- The public transaction ledger: how the blockchain works.
+- Exploring Bitcoin transactions in a blockchain explorer.
 
-### 5. Mecanismo de consenso y seguridad de Bitcoin
+### 5. Bitcoin’s Consensus Mechanism and Security
 
-- Profundización en cómo Bitcoin logra el consenso, previene el fraude y se mantiene seguro contra ataques.
-- Cómo el consenso distribuido previene el fraude: Problema General Bizantino.
-- El algoritmo de consenso de Bitcoin (simplificado).
-- Ataques Sybil y su impacto en Bitcoin.
-- El problema del doble gasto y cómo Bitcoin lo resuelve.
-- El problema de la confianza en las transacciones digitales.
-- Cómo Bitcoin mantiene la confianza sin intermediarios.
+- A deep dive into how Bitcoin achieves consensus, prevents fraud, and remains secure against attacks.
+- How distributed consensus prevents fraud: the Byzantine Generals Problem.
+- Bitcoin’s consensus algorithm (simplified).
+- Sybil attacks and their impact on Bitcoin.
+- The double-spending problem and how Bitcoin solves it.
+- The problem of trust in digital transactions.
+- How Bitcoin maintains trust without intermediaries.
 
-### 6. Bitcoin, democracias e inclusión financiera
+### 6. Bitcoin, Democracies, and Financial Inclusion
 
-- Se explora el potencial de Bitcoin para el empoderamiento financiero, especialmente en regiones desbancarizadas, a través de estudios de caso y análisis de datos.
-- Democracias y derechos humanos.
-- Bitcoin e inclusión financiera: las poblaciones desbancarizadas y Bitcoin como herramienta para el empoderamiento económico.
-- Transferencias de dinero internacionales y países con alta inflación.
-- Actividades: Los estudiantes realizan estudios de caso sobre hiperinflación y adopción de Bitcoin (Venezuela, Argentina, Nigeria).
+- Exploring Bitcoin’s potential for financial empowerment, especially in unbanked regions, through case studies and data analysis.
+- Democracies and human rights.
+- Bitcoin and financial inclusion: the unbanked population and Bitcoin as a tool for economic empowerment.
+- International remittances and countries with high inflation.
+- Activities: Students conduct case studies on hyperinflation and Bitcoin adoption (Venezuela, Argentina, Nigeria).
 
-### 7. Riesgos de seguridad y prevención de estafas
+### 7. Security Risks and Scam Prevention
 
-- Cerrando con una discusión esencial sobre seguridad, riesgos y estafas para asegurar que los estudiantes puedan identificar esquemas fraudulentos en el espacio de Bitcoin.
-- Después de Bitcoin, ETH e ICOs.
-- Cómo identificar estafas en el espacio de Bitcoin.
-- Esquemas Ponzi y piramidales.
-- Plataformas de inversión falsas y estafas de retornos garantizados.
-- Ataques de phishing y amenazas a la seguridad de las wallets.
-- Estafas de suplantación de identidad e ingeniería social.
-- Señales de alerta en proyectos de ICO y altcoins.
-- Cómo verificar la legitimidad de los servicios relacionados con Bitcoin.
+- Concluding with an essential discussion on security, risks, and scams to ensure students can identify fraudulent schemes in the Bitcoin space.
+- After Bitcoin: ETH and ICOs.
+- How to identify scams in the Bitcoin space.
+- Ponzi and pyramid schemes.
+- Fake investment platforms and guaranteed return scams.
+- Phishing attacks and wallet security threats.
+- Impersonation and social engineering scams.
+- Red flags in ICO and altcoin projects.
+- How to verify the legitimacy of Bitcoin-related services.
 
-## Licencia
+## License
 
-Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
-Si encuentras útil este proyecto, siéntete libre de compartirlo o contribuir.
+If you find this project useful, feel free to share it or contribute.
