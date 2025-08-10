@@ -4,10 +4,10 @@
 >
 > **Complete series:**
 >
-> 1. [The Evolution of Digital Money: From Credit to Crypto-Money](../La%20evolución%20del%20dinero%20digital:%20del%20crédito%20al%20cripto-dinero.md)
-> 2. [The Flaws of the Traditional Financial System](scr/Los%20defectos%20del%20sistema%20financiero%20tradicional.md)
+> 1. [The Evolution of Digital Money: From Credit to Crypto-Money](The%20Evolution%20of%20Digital%20Money.md)
+> 2. [The Flaws of the Traditional Financial System](The%20Flaws%20of%20the%20Traditional%20Financial%20System.md )
 > 3. ✅ From Control to Sovereignty *(you are here)*
-> 4. 🔜 [The Origins of Bitcoin and the Whitepaper](scr/Orígenes%20de%20Bitcoin%20y%20el%20Whitepaper.md)
+> 4. 🔜 [The Origins of Bitcoin and the Whitepaper]()
 
 ---
 
@@ -114,4 +114,4 @@ It’s a tool for freedom and financial sovereignty.
 And if you’re wondering how this tool came to be, who designed it, and why it was so revolutionary,
 I invite you to continue with the next article in this series:
 
-👉 [Exploring Bitcoin’s Origins: How It Built on Previous Cryptographic Ideas and Why Satoshi Nakamoto’s Solution Was Unique](scr/Orígenes%20de%20Bitcoin%20y%20el%20Whitepaper.md)
+👉 [Exploring Bitcoin’s Origins: How It Built on Previous Cryptographic Ideas and Why Satoshi Nakamoto’s Solution Was Unique]()
