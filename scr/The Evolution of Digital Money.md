@@ -5,8 +5,8 @@
 > **Complete series:**
 >
 > 1. ✅ The Evolution of Digital Money: From Credit to Crypto-Money *(you are here)*
-> 2. 🔜 [The Flaws of the Traditional Financial System: Inflation, Censorship, and Authoritarianism](scr/The%20Flaws%20of%20the%20Traditional%20Financial%20System.md)
-> 3. 🔜 [From Control to Sovereignty: What I Discovered by Understanding Bitcoin](scr/From%20Control%20to%20Sovereignty.md)
+> 2. 🔜 [The Flaws of the Traditional Financial System: Inflation, Censorship, and Authoritarianism](The%20Flaws%20of%20the%20Traditional%20Financial%20System.md)
+> 3. 🔜 [From Control to Sovereignty: What I Discovered by Understanding Bitcoin](From%20Control%20to%20Sovereignty.md)
 > 4. 🔜 Origins of Bitcoin and the Whitepaper *(coming soon)*
 
 ---
@@ -102,4 +102,4 @@ But if something like Bitcoin exists today, it’s because **the current financi
 In the next article, we’ll analyze those flaws:
 how inflation, financial censorship, and authoritarian control have turned traditional money into a system that no longer represents us.
 
-👉 [Read the next article here: *The Flaws of the Traditional Financial System*](scr/The%20Flaws%20of%20the%20Traditional%20Financial%20System.md)
+👉 [Read the next article here: *The Flaws of the Traditional Financial System*](The%20Flaws%20of%20the%20Traditional%20Financial%20System.md)
