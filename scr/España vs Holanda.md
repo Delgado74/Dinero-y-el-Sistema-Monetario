@@ -90,8 +90,3 @@ Lo que ocurrió entre **Holanda y España** enseña que **la utilidad monetaria 
 * La **plata española** tenía *dureza*, pero la **banca holandesa** tenía *institucionalidad*.
 * **Bitcoin** ofrece *dureza y soberanía*; **el fiat**, *institucionalidad y elasticidad*.
   El mundo real maximiza valor cuando reconoce estas **ventanas comparativas** y construye **puentes prudentes** entre ellas, sin olvidar que cada puente trae de vuelta los **riesgos** del lado al que se aproxima.
-
-Si quieres, puedo convertir este análisis en:
-
-* una **línea de tiempo** visual (PDF) o
-* una **tabla ejecutiva** para imprimir/compartir (con bullets por función y riesgo).
